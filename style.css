@@ -170,6 +170,7 @@ header nav ul li:hover .menuhover {
   margin: 0 auto;
   padding: 3rem 0;
   font-family: arial, sanserif;
+  line-height: 1.6rem;
 }
 
 .content-wrap .content .img {
@@ -274,11 +275,8 @@ header nav ul li:hover .menuhover {
 .content-wrap .work .text-wrap {
   padding-top: 2.5rem;
   width: 70%;
-  margin: 0 auto;
-}
-
-.content-wrap .work .text-wrap p {
   line-height: 1.6rem;
+  margin: 0 auto;
 }
 
 .content-wrap .work .text-wrap ul {

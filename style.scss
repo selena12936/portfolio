@@ -171,6 +171,7 @@ header {
         margin:0 auto;
         padding:3rem 0;
         font-family:arial, sanserif;
+        line-height:1.6rem;
 
         .img {
             padding-top:2rem;
@@ -276,11 +277,9 @@ header {
         .text-wrap{
             padding-top:2.5rem;
             width:70%;
+            line-height:1.6rem;
             margin:0 auto;
 
-            p{
-                line-height:1.6rem;
-            }
             ul{
                 padding:1rem 0;
                 
