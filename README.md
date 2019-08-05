@@ -2,4 +2,10 @@
 Portfolio website
 
 -----
-Html5 / css3 / scss / javascript
+<h3>work with</h3>
+<ul>
+  <li>Html5</li>
+  <li>css3</li>
+  <li>scss</li>
+  <li>javascript</li>
+</ul>
